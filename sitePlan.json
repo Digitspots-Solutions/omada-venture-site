@@ -1,0 +1,49 @@
+{
+  "businessName": "Omada Venture",
+  "industry": "Manufacturing",
+  "tone": "professional and confident",
+  "tagline": "Excellence in Manufacturing, Trusted Solutions for Industry",
+  "sections": [
+    {
+      "id": "hero",
+      "name": "Hero Section",
+      "copy": "Welcome to Omada Venture - Your Trusted Manufacturing Partner in Jos. We deliver quality manufacturing solutions with precision, reliability, and commitment to excellence. Serving industries across Plateau State and beyond with innovative production capabilities.",
+      "imagePrompt": "Modern industrial manufacturing facility in Nigeria, clean production floor with machinery and equipment, professional workers in safety gear, bright natural lighting through large windows, Jos Plateau landscape visible in background, photorealistic, high quality, professional corporate photography",
+      "layout": "centered"
+    },
+    {
+      "id": "about",
+      "name": "About Us",
+      "copy": "Omada Venture is a leading manufacturing company based in Jos South, Plateau State. Located at By Health Center, Bukuru Express, we have established ourselves as a reliable partner for businesses seeking quality manufacturing solutions. Our facility combines modern production techniques with skilled craftsmanship to deliver products that meet the highest industry standards. We are committed to supporting Nigeria's industrial growth through excellence in manufacturing, timely delivery, and customer satisfaction. Our team brings years of experience in production management, quality control, and logistics to ensure every project meets your exact specifications.",
+      "imagePrompt": "Professional Nigerian manufacturing company interior, well-organized warehouse with organized inventory, quality control station, workers collaborating on production line, modern equipment, natural daylight, Jos Nigeria industrial setting, photorealistic corporate documentation style",
+      "layout": "split"
+    },
+    {
+      "id": "services",
+      "name": "Our Services",
+      "copy": "Custom Manufacturing Solutions - We provide tailored manufacturing services designed to meet your specific production needs, from concept to completion.\n\nQuality Production - Our state-of-the-art facility ensures consistent quality across all production runs, with rigorous quality control at every stage.\n\nSupply Chain Management - Reliable sourcing and logistics coordination to keep your operations running smoothly.\n\nProduct Development - Collaborate with our experienced team to develop and refine products for the Nigerian market.\n\nBulk Production - Scalable manufacturing capacity to handle both small batch orders and large-scale production runs.\n\nConsultation Services - Expert guidance on manufacturing processes, materials selection, and production optimization.",
+      "imagePrompt": "Grid of manufacturing services images showing diverse production activities in Nigerian factory: workers operating machinery, quality inspection process, packaged products on conveyor, inventory management, consultation meeting, photorealistic industrial photography, professional lighting",
+      "layout": "grid"
+    },
+    {
+      "id": "why-choose-us",
+      "name": "Why Choose Omada Venture",
+      "copy": "Strategic Location - Conveniently located in Jos South with easy access via Bukuru Express, facilitating efficient logistics and delivery.\n\nLocal Expertise - Deep understanding of the Nigerian manufacturing landscape and market requirements.\n\nQuality Assurance - Rigorous quality control processes ensure every product meets or exceeds expectations.\n\nReliable Delivery - Committed to meeting deadlines and maintaining consistent supply chains.\n\nCompetitive Pricing - Cost-effective manufacturing solutions without compromising on quality.\n\nExperienced Team - Skilled professionals dedicated to bringing your manufacturing projects to life.",
+      "imagePrompt": "Professional collage showing Nigerian manufacturing excellence: close-up of quality product inspection, handshake between business partners, delivery trucks at loading bay, skilled workers at production line, Jos Nigeria industrial area, warm professional lighting, photorealistic",
+      "layout": "cards"
+    },
+    {
+      "id": "contact",
+      "name": "Get In Touch",
+      "copy": "Ready to discuss your manufacturing needs? Contact Omada Venture today. Whether you need a quote, want to schedule a facility tour, or have questions about our capabilities, our team is here to help.\n\nVisit us at our facility in Jos South or reach out via phone or WhatsApp. We look forward to partnering with you to bring your manufacturing projects to life.\n\nBusiness Hours: Monday - Friday, 8:00 AM - 5:00 PM | Saturday, 9:00 AM - 2:00 PM",
+      "imagePrompt": "Welcoming Nigerian manufacturing office reception area, modern professional desk, friendly receptionist, company branding on wall, comfortable seating area, large windows showing factory floor in background, Jos Nigeria, warm professional lighting, photorealistic corporate photography",
+      "layout": "centered"
+    }
+  ],
+  "contact": {
+    "phone": "08179161851",
+    "email": "info@omadaventure.com",
+    "address": "By Health Center, Bukuru Express, Jos South, Plateau State, Nigeria",
+    "whatsapp": "https://wa.me/2348179161851"
+  }
+}
